@@ -14,7 +14,7 @@
 
 # Ссылки
 1. [Отчет]()
-2. [Демонстрация полёта]()
+2. [Демонстрация полёта](https://drive.google.com/file/d/10h_y5AgrjgtTz9z0vY3PGZHfEXnSmkKe/view?usp=sharing)
 
 # Проект Mne_ne_dano
 Github проекта по предмету ВАРКТ, команды Mne_ne_dano из группы М8О-107БВ-24
